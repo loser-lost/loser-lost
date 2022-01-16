@@ -1,6 +1,6 @@
 ### Olá! Meu nome e Michael. 👋
 - 🔭 Estou aprendendo back -end.
-- 🏫 Estou cursando sistemas da informação no IFTO.
+- 🏫 Estou cursando SI no IFTO.
 
 <div align="center">
   <a href="https://github.com/loser-lost">
