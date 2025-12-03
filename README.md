@@ -2,6 +2,7 @@
 - 🔭 Busco me especializar no Back-End.
 - 🏫 Estou cursando SI no IFTO.
 - 🌃 Amo astronomia, musicas e  podcasts. ✨
+- 🧩Autista nivel de suporte 1
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/michael.israel.7568/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com//_michael.is_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-israel-sousa-santos) 
