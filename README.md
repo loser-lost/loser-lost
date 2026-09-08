@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Michael. 👋
 - 🔭 Busco me especializar no Back-End.
-- 🏫 Estou cursando SI no IFTO.
+- 🏫 Bacharel em Sistemass De Informação.
 - 🌃 Amo astronomia, musicas e  podcasts. ✨
 - 🧩Autista nivel de suporte 1
 
